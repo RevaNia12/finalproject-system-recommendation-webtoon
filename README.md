@@ -29,3 +29,7 @@ Aplikasi sistem rekomendasi komik Webtoon interaktif berbasis web. Dibuat menggu
 ├── data.csv                 # Dataset komik Webtoon
 ├── requirements.txt         # Dependencies Python
 └── README.md                # Dokumentasi proyek
+
+---
+
+## 🎯 Masalah & Solusi
