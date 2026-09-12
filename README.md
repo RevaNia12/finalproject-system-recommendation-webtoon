@@ -32,20 +32,20 @@ Aplikasi sistem rekomendasi komik Webtoon interaktif berbasis web. Dibuat menggu
 ```
 
 ## ⚙️ Cara Menjalankan Proyek Secara Lokal
-**1. Clone Repositori**
+- **1. Clone Repositori**
 ``git clone https://github.com/RevaNia12/finalproject-system-recommendation-webtoon.git
   cd finalproject-system-recommendation-webtoon
 ``
-**2. Buat & Aktifkan Virtual Environment**
+- **2. Buat & Aktifkan Virtual Environment**
     ***windows***
     ``python -m venv venv
       venv\Scripts\activate``
     ***macOS dan Linux***
     ``python3 -m venv venv
      source venv/bin/activate``
-**3. Install Dependensi**
+- **3. Install Dependensi**
 ``pip install -r requirements.txt``
-**4.Jalankan aplikasi streamlit **
+- **4.Jalankan aplikasi streamlit **
 ``streamlit run app.py``
 
 
