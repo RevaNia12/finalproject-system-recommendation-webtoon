@@ -48,4 +48,6 @@ Aplikasi sistem rekomendasi komik Webtoon interaktif berbasis web. Dibuat menggu
 - **4.Jalankan aplikasi streamlit**
 ``streamlit run app.py``
 
+## Link Streamlit
+https://finalproject-system-recommendation-webtoon-eyjkgebjz3ob4xbvdyh.streamlit.app/
 
