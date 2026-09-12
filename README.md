@@ -45,7 +45,7 @@ Aplikasi sistem rekomendasi komik Webtoon interaktif berbasis web. Dibuat menggu
      source venv/bin/activate``
 - **3. Install Dependensi**
 ``pip install -r requirements.txt``
-- **4.Jalankan aplikasi streamlit **
+- **4.Jalankan aplikasi streamlit**
 ``streamlit run app.py``
 
 
