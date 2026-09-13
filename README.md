@@ -12,6 +12,8 @@ Aplikasi sistem rekomendasi komik Webtoon interaktif berbasis web. Dibuat menggu
 - **Solusi:** Pendekatan *Content-Based Filtering* mengekstraksi kemiripan teks dari **genre** dan **sinopsis cerita**, sehingga komik yang baru dirilis tetap dapat direkomendasikan secara akurat berdasarkan substansi narasi.
 
 ---
+## Dataset
+https://www.kaggle.com/datasets/victorsoeiro/webtoons-dataset
 
 ## 🛠️ Stack Teknologi
 
